@@ -86,8 +86,7 @@ Designed PowerPoint visuals to support business storytelling
 ---
 
 ### 2. 📈 Measures of Spread
-![Descriptive Statistics Summary](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/d663f9e8706eddb5fb56d9dd5d4d0779a0a1194c/Screenshot%202025-06-19%20200146.png?raw=true)
-- **Charts Used:** Standard Deviation Summary
+![Frequency Table for AdWords Ad Conversions](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/3a0deb24cf7a019fe271d84a81a5c27e3ebd2e25/frequency%20table%20(1).png?raw=true)
 - **Standard Deviations:**
   - Clicks: 12.14  
   - Conversions: 2.92  
@@ -133,20 +132,6 @@ Designed PowerPoint visuals to support business storytelling
 
 ---
 
-## 📸 Suggested Visual Enhancements (If You Upload to GitHub)
-To make your README more interactive, consider adding:
-
-| Section                    | Suggested Visual                  | File Name Example         |
-|---------------------------|-----------------------------------|---------------------------|
-| Central Tendency          | Table or Screenshot               | `central_tendency.png`    |
-| Standard Deviation        | Summary Chart                     | `std_deviation_chart.png` |
-| Frequency Distribution    | Bar Chart                         | `conversion_buckets.png`  |
-| Correlation & Scatterplot | Scatter Plot with Trendline       | `scatterplot_clicks.png`  |
-| Regression                | Line Chart with Forecast Overlay  | `regression_model.png`    |
-| Hypothesis Testing        | Annotated T-Test Output Screenshot| `t_test_output.png`       |
-
----
-
 ## 🧠 Business Impact
 
 - 📈 **Increased ROI Awareness:** Campaign budget can now focus more on Facebook Ads based on evidence.
@@ -165,9 +150,8 @@ To make your README more interactive, consider adding:
 
 ## 📬 Contact
 Chinelo Lydia Nweke  
-Working Student | Data & Marketing Analytics  
 📍 Germany  
-📧 [Your Email] | 🌐 [Your LinkedIn]
+🌐 [www.linkedin.com/in/chinelo-nweke]
 
 ---
 
