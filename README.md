@@ -28,7 +28,7 @@ I found that Facebook Ads consistently yielded higher conversions and a stronger
 
 ---
 
-🎯 3. Project Objectives <a name="objectives"></a>
+## 🎯 Project Objectives <a name="objectives"></a>
 Compare clicks vs. conversions for both platforms
 
 Use descriptive statistics to summarize campaign performance
@@ -39,11 +39,9 @@ Test for statistically significant differences using hypothesis testing
 
 Build a simple regression model to predict conversions
 
-## 📊 Key Analytical Steps & Visualizations
-
 ---
 
-🧪 4. Methodology <a name="methodology"></a>
+## 🧪 Methodology <a name="methodology"></a>
 ✔️ Descriptive Statistics:
 
 Mean, median, mode, and standard deviation of clicks and conversions
@@ -73,6 +71,7 @@ Created scatter plots, frequency tables, histograms, and correlation charts
 Designed PowerPoint visuals to support business storytelling
 
 ---
+## 📊 Key Analytical Steps & Visualizations
 
 ### 1. 🧮 Measures of Central Tendency
 - **Charts Used:** Summary Table
