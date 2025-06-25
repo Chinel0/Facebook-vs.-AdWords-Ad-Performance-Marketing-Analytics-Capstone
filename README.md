@@ -1,7 +1,9 @@
 # 📊 Facebook Ad Statistical Analysis
 **Capstone Project | Meta Marketing Analytics Certificate**  
 *Author: Chinelo Lydia Nweke*
-https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/397bd6bc96998aa6237dfd3f659147dbbe5f5c5c/facebook%20dashboard.png
+
+![Facebook vs AdWords Capstone Dashboard](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/397bd6bc96998aa6237dfd3f659147dbbe5f5c5c/facebook%20dashboard.png?raw=true)
+
 ---
 
 ## 📁 Project Repository
