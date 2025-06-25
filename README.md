@@ -76,6 +76,7 @@ Designed PowerPoint visuals to support business storytelling
 ## 📊 Key Analytical Steps & Visualizations
 
 ### 1. 🧮 Measures of Central Tendency
+![Descriptive Statistics Summary](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/d663f9e8706eddb5fb56d9dd5d4d0779a0a1194c/Screenshot%202025-06-19%20200146.png?raw=true)
 - **Charts Used:** Summary Table
 - **Insights:**
   - Mean Clicks: 44 | Median: 43 | Mode: 36  
@@ -85,6 +86,7 @@ Designed PowerPoint visuals to support business storytelling
 ---
 
 ### 2. 📈 Measures of Spread
+![Descriptive Statistics Summary](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/d663f9e8706eddb5fb56d9dd5d4d0779a0a1194c/Screenshot%202025-06-19%20200146.png?raw=true)
 - **Charts Used:** Standard Deviation Summary
 - **Standard Deviations:**
   - Clicks: 12.14  
@@ -95,6 +97,7 @@ Designed PowerPoint visuals to support business storytelling
 ---
 
 ### 3. 📊 Frequency Table
+![Clicks Frequency Table](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/d663f9e8706eddb5fb56d9dd5d4d0779a0a1194c/Screenshot%202025-06-19%20111727.png?raw=true)
 - **Chart Type:** Bar Chart
 - **Insight:**  
   By categorizing conversions (e.g. <6, 6–10, 11–15, >15), I observed that most days fall into the 6–15 conversions range, confirming mid-level daily performance.
@@ -102,6 +105,7 @@ Designed PowerPoint visuals to support business storytelling
 ---
 
 ### 4. 📉 Scatter Plot + Correlation Coefficient
+![Clicks Frequency Table](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/d663f9e8706eddb5fb56d9dd5d4d0779a0a1194c/Screenshot%202025-06-19%20111727.png?raw=true)
 - **Correlation Coefficient:** **0.86**  
 - **Chart Type:** Scatter Plot with Trendline  
 - **Insight:**  
@@ -110,6 +114,7 @@ Designed PowerPoint visuals to support business storytelling
 ---
 
 ### 5. 🧪 Hypothesis Testing (T-Test)
+![Hypothesis Testing Summary](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/d663f9e8706eddb5fb56d9dd5d4d0779a0a1194c/Screenshot%202025-06-19%20034431.png?raw=true)
 - **Hypothesis:** Facebook Ads will result in higher conversions than AdWords.
 - **Result:** P-value < 0.05 → Statistically significant  
 - **Conclusion:** Facebook outperforms AdWords in conversion rates with statistical confidence.
@@ -123,6 +128,8 @@ Designed PowerPoint visuals to support business storytelling
   - **R² Value:** 0.77  
 - **Insight:**  
   This model predicts that every 10 additional Facebook clicks yield ~3 more conversions. This is a strong case for scaling Facebook Ads.
+
+![Regression Analysis Chart](https://github.com/Chinel0/Facebook-vs.-AdWords-Ad-Performance-Marketing-Analytics-Capstone/blob/98a155bd483b626851f05b9ee279d88fbfb96430/regression%20analysis.png?raw=true)
 
 ---
 
